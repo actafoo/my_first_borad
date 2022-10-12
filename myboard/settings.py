@@ -23,7 +23,6 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = os.environ['secret_key']
-# django-insecure-^a7lg-)zv(aso^iax1b@f+4ve1he0v29u%rr#di0o13%hybvwk'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
